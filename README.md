@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/token-radar-01/arookieofc-ai/token-radar/rank.svg)](https://make.fun/bounty/token-radar-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 [![reward](https://make.fun/badge/token-radar-01/arookieofc-ai/token-radar/reward.svg)](https://make.fun/bounty/token-radar-01?utm_source=github&utm_medium=readme&utm_campaign=token-radar-01)
 
-A token launch radar: it reads a sealed DefiLlama snapshot of 758 protocols, ranks the ones that record no token yet by an implied launch value from a comparables model (TVL times the median market-cap/TVL multiple of already-tokened peers in the same category, adjusted for 7-day growth, time running tokenless and chain breadth), and presents them in a static dashboard with a detail view and a concrete, costed farm plan for every protocol.
+A pre-token launch radar over 758 DefiLlama protocols: each protocol with no recorded token is priced by an implied value from a comparables model (its TVL times the median market-cap-to-TVL multiple of already-tokened peers in its category, adjusted for 7-day momentum, time running tokenless and chain breadth), then served in a static dashboard with a sortable board, per-protocol detail views, filters and a concrete costed farm plan for every ranked row.
 
 ## Run it
 
